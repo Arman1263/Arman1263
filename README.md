@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I’m Arman Amir Shikalgar<br>👨‍💻 I’m currently working on My Self <br>👯 I’m looking for Internships and Startups<br>🌱 I’m currently learning Data Science and Analysis<br>
+😎 I’m Arman Amir Shikalgar<br>👨‍💻 I’m currently working on My Self <br>👯 I’m looking for Internships and Startups<br>🌱 I’m currently learning Data Analysis and AI<br>
 
 
 ## 🌐 Socials:
