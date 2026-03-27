@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Professional Skills.<br>👯 I’m looking to serve my efforts and knowledge. <br>🤝 I’m looking for internships and jobs roles.<br>🌱 I’m currently learning Fast API.
+🔭 I’m currently working on - Skills.<br>👯 I’m looking to serve my efforts and knowledge. <br>🤝 I’m looking for internships and jobs roles.<br>🌱 I’m currently learning Fast API.
 
 
 ## 🌐 Socials:
