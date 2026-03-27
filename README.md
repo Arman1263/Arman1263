@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - AI Skills.<br>👯 I’m looking to serve my efforts and knowledge.<br>🌱 I’m currently learning Fast API.
+🧠I'm a Python Backend Developer & Data Analyst<br>.🔭 I’m currently working on - AI Skills.<br>👯 I’m looking to serve my efforts and knowledge.<br>🌱 I’m currently learning Fast API.
 
 
 ## 🌐 Socials:
