@@ -1,4 +1,4 @@
-# 💫 About :
+# 💫 About Me :
 🧠 I'm a Python Backend Developer & Data Analyst<br>.🔭 I’m focusing on LLM & Automation.<br>👯 I’m looking to serve my efforts and knowledge.<br>🌱 I’m currently learning Fast API.
 
 
