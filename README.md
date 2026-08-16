@@ -101,7 +101,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/datascience_back.jpeg" width="1000" height="400">
+  <img src="datascience_back.jpeg" width="1000" height="400">
 </p>
 
 ---
@@ -109,12 +109,12 @@
 ## 👨‍💻 About Me
 
 ```
-     A data guy with a creative twist 🎨
+     A productive guy with a creative twist 🎨
 
-     • 🔭 Currently building tools using Generative AI & LLMs  
-     • 🌱 Learning full-stack app dev for AI-powered tools  
-     • 🤖 Interested in ML, LangChain, Streamlit, and automation  
-     • 🏏 Off-screen: cricket, volleyball, mobile gaming & sketching
+     • 🔭 Currently building tools AI powered applications with Python  
+     • 🌱 Learning AI tech stack and automation 
+     • 🤖 Interested in LLM's, Gen AI and Agentic AI  
+     • 🏏 Off-screen: Workout, Reading and Journaling
 ```
 
 
@@ -124,7 +124,7 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman5.gif" width="43%" height=350> 
+  <img src="spiderman5.gif" width="43%" height=350> 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&layout=compact&theme=radical" width="49%" style="margin-right: 30px;">
 
