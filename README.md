@@ -135,7 +135,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/adityanaranje/adityanaranje/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Arman1263/Arman1263/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
