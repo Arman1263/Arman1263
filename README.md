@@ -13,7 +13,7 @@
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Arman1263&repo=Arman1263&countColorcountColor&countColor=%237B1E7B"/>
   <a href="https://www.linkedin.com/in/arman88/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/armanlxl"><img src="https://img.shields.io/badge/Twitter-Follow-red?style=for-the-badge&logo=twitter"></a>
-  <a href="https://medium.com/@armanshikalgar"><img src="https://img.shields.io/badge/Medium-Learn-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://medium.com/@armanshikalgar"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
   <a href="https://www.kaggle.com/mrarmans"><img src="https://img.shields.io/badge/Kaggle-Explore-66ff66?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="mailto:armanshikalgar01@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Hi-orange?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -94,6 +94,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -126,8 +127,6 @@
 
   <img src="spiderman5.gif" width="43%" height=350> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityanaranje&layout=compact&theme=radical" width="49%" style="margin-right: 30px;">
-
 </div>
 
 
@@ -140,31 +139,6 @@
 </div>
 
 ---
-
-##     My Projects ⏫
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=Langgraph-Customer-Support-Multi-Agent&theme=gotham)](https://github.com/adityanaranje/Langgraph-Customer-Support-Multi-Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-WhatsApp-Bot&theme=midnight-purple)](https://github.com/adityanaranje/n8n-WhatsApp-Bot)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SLM-From-Scratch&theme=vision-friendly-dark)](https://github.com/adityanaranje/SLM-From-Scratch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=FineTune-LLM&theme=highcontrast)](https://github.com/adityanaranje/FineTune-LLM)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=RAG-Chatbot-AWS-Bedrock-Agentcore&theme=omni)](https://github.com/adityanaranje/RAG-Chatbot-AWS-Bedrock-Agentcore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=n8n-github-events-telegram-email-workflow&theme=dark)](https://github.com/adityanaranje/n8n-github-events-telegram-email-workflow)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=EMAIL-SUMMARY-AGENT-TELEGRAM&theme=blue-green)](https://github.com/adityanaranje/EMAIL-SUMMARY-AGENT-TELEGRAM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=CODEVO&theme=ocean_dark)](https://github.com/adityanaranje/CODEVO)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=SQL-For-India-Crop-Data-Analysis&theme=gotham)](https://github.com/adityanaranje/SQL-For-India-Crop-Data-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=IPL-WIN-PROBABILITY-PREDICTOR&theme=vision-friendly-dark)](https://github.com/adityanaranje/IPL-WIN-PROBABILITY-PREDICTOR)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=MOVIE-RECOMMENDATION&theme=highcontrast)](https://github.com/adityanaranje/MOVIE-RECOMMENDATION)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityanaranje&repo=ISOLATED-RAG-CHATBOT&theme=blueberry)](https://github.com/adityanaranje/ISOLATED-RAG-CHATBOT)
-
-
-
-
 
 <!--START_SECTION:waka-->
 
@@ -189,30 +163,12 @@ No activity tracked
 
 ---
 
-📊 GitHub Stats
----
-
-<div style="display: flex; align-items: center;">
-
+# 📊 GitHub Stats:
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=Arman1263&theme=dark&hide_border=true&bg_color=0D1117&title_color=8250DF&icon_color=2EA8E5&text_color=C9D1D9&include_all_commits=false&count_private=false" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arman1263&theme=dark&hide_border=true&bg_color=0D1117&title_color=8250DF&text_color=C9D1D9&layout=compact" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/spiderman4.gif" width="510" height="200" style="border-radius: 15px; margin: 0 20px;">
- </p>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanaranje&theme=midnight-purple" width="1000">
-  </a>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/chari.gif" width="190" height="200" style="border-radius: 15px;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/thank.gif" width="420" height="200" style="border-radius: 15px; margin: 0 20px;">
-  <img src="https://github.com/adityanaranje/adityanaranje/blob/master/pic.gif" width="190" height="200" style="border-radius: 15px;">
-</div>
-
-
-
-<p align="center">
-    <img src="https://github.com/adityanaranje/adityanaranje/blob/master/spidy.gif" width=280 height=180> 
- </p>
+  <img src="https://streak-stats.demolab.com/?user=Arman1263&theme=dark&hide_border=true&background=0D1117&ring=8250DF&fire=EF4444&currStreakLabel=2EA8E5" />
+</p>
