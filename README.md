@@ -165,10 +165,24 @@ No activity tracked
 
 # 📊 GitHub Stats:
 <p align="center">
+  <img src="spiderman4.gif" width="510" height="200" style="border-radius: 15px; margin: 0 20px;">
+ </p>
+
+<p align="center">
   <img height="165em" src="https://github-readme-stats.shion.dev/api?username=Arman1263&theme=dark&hide_border=true&bg_color=0D1117&title_color=8250DF&icon_color=2EA8E5&text_color=C9D1D9&include_all_commits=false&count_private=false" />
   <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arman1263&theme=dark&hide_border=true&bg_color=0D1117&title_color=8250DF&text_color=C9D1D9&layout=compact" />
 </p>
 
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="charmander2.gif" width="190" height="200" style="border-radius: 15px;">
+  <img src="thank.gif" width="420" height="200" style="border-radius: 15px; margin: 0 20px;">
+  <img src="pikachu2.gif" width="190" height="200" style="border-radius: 15px;">
+</div>
+
+
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arman1263&theme=dark&hide_border=true&background=0D1117&ring=8250DF&fire=EF4444&currStreakLabel=2EA8E5" />
-</p>
+    <img src="https://github.com/Arman1263/Arman1263/blob/master/spidy.gif" width=280 height=180> 
+ </p>
